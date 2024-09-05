@@ -1,1 +1,3 @@
-### For running the project, type "<u>streamlit run main.py</u>" in the terminal.
+CopyFor running the project, type:
+> streamlit run main.py
+in the terminal.
