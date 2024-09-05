@@ -1,1 +1,1 @@
-## For running the project, type <b>streamlit run main.py</b> in the terminal.
+## For running the project, type <span style="color:red">streamlit run main.py</span> in the terminal.
